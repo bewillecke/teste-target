@@ -26,7 +26,7 @@ def processar_faturamento(arquivo_json):
     }
 
 # Caminho do arquivo JSON
-caminho_arquivo = 'teste_3.json'
+caminho_arquivo = 'dados.json'
 
 resultados = processar_faturamento(caminho_arquivo)
 
